@@ -9,7 +9,8 @@ Louise, a hopeful playwright, is looking for insight about what makes Kickstarte
 
 ### Analysis of Outcomes Based on Launch Date
 To determine the outcome of theater campaigns based on their launch date, we looked at the relationship between the dates that the campaigns were created with the campaigns that were successful, failed, and cancelled. 
-
+![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
+May was the most successful month for the relevant Kickstarter campaigns while June and July were the second and third most successful. Based on this connection, spring and summer are the best times to start a theater campaign. The numbers for the unsuccessful campaigns were consistent through the entire year with May, July, and October being the most unsuccessful. Since the number of failed theather campaigns were fairly consistent despite the month, there is likely a different factor contributing to their failure. 
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
