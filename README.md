@@ -8,7 +8,8 @@ Louise, a hopeful playwright, is looking for insight about what makes Kickstarte
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-To determine the outcome of campaigns based on their launch date, 
+To determine the outcome of theater campaigns based on their launch date, we looked at the relationship between the dates that the campaigns were created with the campaigns that were successful, failed, and cancelled. 
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
