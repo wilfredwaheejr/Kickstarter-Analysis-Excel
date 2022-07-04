@@ -12,7 +12,9 @@ To determine the outcome of theater campaigns based on their launch date, we loo
 ![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
 May was the most successful month for the relevant Kickstarter campaigns while June and July were the second and third most successful. Based on this connection, spring and summer are the best times to start a theater campaign. The numbers for the unsuccessful campaigns were consistent through the entire year with May, July, and October being the most unsuccessful. Since the number of failed theather campaigns were fairly consistent despite the month, there is likely a different factor contributing to their failure. 
 ### Analysis of Outcomes Based on Goals
-
+To deteermine the outcome of play camapaigns based on their fundraising goal, we looked at the number of campaigns that were successful within 12 ranges. After gathering the total number of successful, failed, and cancelled campaigns withiin those ranges, we took the percentage of those totals and displayed them in a line graph. 
+![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+51% of the total projects had a fundraising goal between $1,000 and $4,999. The greatest total of successful campaigns (388) and unsuccessful campaigns had fundraising goals in that range. Based on that connection, there is another factor that is contributing to the outcomes. 
 ### Challenges and Difficulties Encountered
 
 ## Results
