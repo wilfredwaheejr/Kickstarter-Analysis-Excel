@@ -14,7 +14,7 @@ May was the most successful month for the relevant Kickstarter campaigns while J
 ### Analysis of Outcomes Based on Goals
 To deteermine the outcome of play camapaigns based on their fundraising goal, we looked at the number of campaigns that were successful within 12 ranges. After gathering the total number of successful, failed, and cancelled campaigns withiin those ranges, we took the percentage of those totals and displayed them in a line graph. 
 ![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
-51% of the total projects had a fundraising goal between $1,000 and $4,999. The greatest total of successful campaigns (388) and unsuccessful campaigns had fundraising goals in that range. Based on that connection, there is another factor that is contributing to the outcomes. 
+51% of the total projects had a fundraising goal between $1,000 and $4,999. The greatest total of successful campaigns (388) and unsuccessful campaigns (146) had fundraising goals in that range. Based on that connection, there is another factor that is contributing to the outcomes. 
 ### Challenges and Difficulties Encountered
-
+There were a few difficulties with getting an accurate count of the number of successful, failed, and cancelled campaigns based on their fundraising goals from the Kickstarter sheet in the excel file. That difficulty was overcome by copying the filtered results for each outcome and adding them to individual sheets to call the data from. The next difficulty was sorting the row labels in ascending order for the "Outcomes Based on Goal" PivotChart because "Less than 1000" and "5000 to 9999" were at the bottom of the table and the end of the x-axis. This difficulty was overcome by right clicking those row labels then manually moving them to the top of the table. 
 ## Results
